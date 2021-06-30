@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="340B164ACDF6D999FB6E9C99AB5E7C4B20AC328389DB9B40BC2F0DD3BA702FCE7F6D361B970189D9021F153FBB5126046E228AF2B63662028D5BF02DC636BFB8" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="9.0.0.50070" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="9.0.0.50070" FeatureSetName="VeriStand Core Components" Name="http://www.ni.com/VeriStand" OldestCompatibleVersion="9.0.0.49152" Version="9.0.0.49152" />
+		<ApplicationVersionInfo Build="8.5.0.50070" Name="VeriStand" Version="9.0.0.50070" />
+	</SourceModelFeatureSet>
+	<Project xmlns="http://www.ni.com/PlatformFramework">
+		<EnvoyManagerRootEnvoy Id="1" ModelDefinitionType="EnvoyManagerRootEnvoy" Name="RootEnvoy" />
+		<EmbeddedDefinitionReference Id="2" ModelDefinitionType="NationalInstruments.ProjectExplorer.Modeling.ProjectDataManager" Name="ProjectExplorer">
+			<ProjectExplorer />
+		</EmbeddedDefinitionReference>
+		<NameScopingEnvoy Id="4" ModelDefinitionType="DefaultTarget" Name="DefaultTarget">
+			<DefaultTarget />
+			<EmbeddedDefinitionReference Id="5" ModelDefinitionType="GatewayDefinition" Name="Gateway" Reparentable="False">
+				<GatewayDefinition xmlns="http://www.ni.com/VeriStand" />
+			</EmbeddedDefinitionReference>
+			<FileReference Bindings=".nivscf" Id="d32d6cc8cc8146b4bb11aed4113b9663" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="ww_DAQRIOoffload.nivscf" StoragePath="ww_DAQRIOoffload.nivscf" />
+			<SourceFileReference Id="bd15524e07144e23bff420c0900e1c2a" ModelDefinitionType="{http://www.ni.com/VeriStand}Screen" Name="ww_DAQRIOoffload.nivsscr" StoragePath="ww_DAQRIOoffload.nivsscr" />
+			<FileReference Bindings=".nivsscreen" Id="bc4f5beec40340bba6e3ac9a7022f3c0" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="ww_DAQRIOoffload.nivsscreen" StoragePath="ww_DAQRIOoffload.nivsscreen" />
+			<FileReference Bindings=".nivsproj" Id="bebb3d8cd7ac418c8a97e20f4a733da3" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="ww_DAQRIOoffload.nivsproj" StoragePath="ww_DAQRIOoffload.nivsproj" />
+			<SourceFileReference Bindings="EnvoyManager" Id="48823c46475847be9d780aa1b8ed3663" ModelDefinitionType="{http://www.ni.com/VeriStand}SystemDefinition" Name="ww_DAQRIOoffload.nivssdf" StoragePath="ww_DAQRIOoffload.nivssdf" />
+			<EmbeddedDefinitionReference Id="4e88a684a9dd48a4952960abc2e56dd8" ModelDefinitionType="SdfFilePath" Name="SdfPath" Reparentable="False">
+				<SdfFilePath SdfPath="ww_DAQRIOoffload.nivssdf" xmlns="http://www.ni.com/VeriStand" />
+			</EmbeddedDefinitionReference>
+		</NameScopingEnvoy>
+	</Project>
+	<ProjectInformation xmlns="http://www.ni.com/PlatformFramework" />
+</SourceFile>

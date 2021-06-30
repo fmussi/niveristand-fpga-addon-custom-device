@@ -1,0 +1,1 @@
+Targets/Controller/Simulation Models/Models/libsinewave64/Outports/Out1	Targets/Controller/Custom Devices/Scan Engine and EtherCAT/Local Chassis/Slot2 (NI 9269)/AO 0

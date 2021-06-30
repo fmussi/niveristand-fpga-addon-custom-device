@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="System definition.xsd">
 	<MD5Checksum />
-	<Version Major="2015" Minor="0" Fix="0" Build="0" />
+	<Version Major="2020" Minor="0" Fix="0" Build="0" />
 	<Content>Definition</Content>
-	<Root Name="VS FPGA Addon Interleaved Example" TypeGUID="d9313aae-3554-45e5-93f3-86454275d4f2">
+	<Root Name="VS FPGA Addon Interleaved Example" TypeGUID="d9313aae-3554-45e5-93f3-86454275d4f2" Identifier="95c35f5e-94ef-4584-8113-4fbd0cca16fc">
 		<Description />
 		<Properties>
 			<Property Name="Name">
@@ -20,11 +20,11 @@
 			</Property>
 		</Properties>
 		<Errors />
-		<Section Name="System Definition File" TypeGUID="b9227a5b-2770-4a62-8621-ac414d4124fb">
+		<Section Name="System Definition File" TypeGUID="b9227a5b-2770-4a62-8621-ac414d4124fb" Identifier="f04e0dd5-aaf6-425f-9222-321dd07df5c1">
 			<Description />
 			<Properties />
 			<Errors />
-			<Section Name="VS FPGA Addon Interleaved Example.nivssdf" TypeGUID="3a41ca74-36ec-4aff-9219-9d05c8f91208">
+			<Section Name="VS FPGA Addon Interleaved Example.nivssdf" TypeGUID="3a41ca74-36ec-4aff-9219-9d05c8f91208" Identifier="d6cdfe52-5c60-48b6-836a-b5e08b4cff92">
 				<Description />
 				<Properties>
 					<Property Name="Path">
@@ -39,7 +39,7 @@
 				<Errors />
 			</Section>
 		</Section>
-		<Section Name="User Interface" TypeGUID="bc98486f-7b49-4949-9504-949cbe254c85">
+		<Section Name="User Interface" TypeGUID="bc98486f-7b49-4949-9504-949cbe254c85" Identifier="ca308909-92ef-4de7-b148-c1335819e8e4">
 			<Description />
 			<Properties>
 				<Property Name="User Accounts">
@@ -62,7 +62,7 @@
 				</Property>
 			</Properties>
 			<Errors />
-			<Section Name="VS FPGA Addon Interleaved Example.nivsscreen" TypeGUID="cdfadfe0-c84a-4268-a677-4f2f3525465e">
+			<Section Name="VS FPGA Addon Interleaved Example.nivsscreen" TypeGUID="cdfadfe0-c84a-4268-a677-4f2f3525465e" Identifier="06682e68-b28f-43b4-82ca-95f7f5ea4ae3">
 				<Description />
 				<Properties>
 					<Property Name="Path">
@@ -76,7 +76,7 @@
 				</Properties>
 				<Errors />
 			</Section>
-			<Section Name="VS FPGA Addon Interleaved Example.nivsprj" TypeGUID="53735ba2-ebbf-4751-b2f2-531478d45887">
+			<Section Name="VS FPGA Addon Interleaved Example.nivsprj" TypeGUID="53735ba2-ebbf-4751-b2f2-531478d45887" Identifier="5f70c868-d627-445e-8231-1c9c22c24dca">
 				<Description />
 				<Properties>
 					<Property Name="Path">
@@ -91,11 +91,11 @@
 				<Errors />
 			</Section>
 		</Section>
-		<Section Name="Services" TypeGUID="736a951c-d9c8-457f-96a9-cd0ef16011a5">
+		<Section Name="Services" TypeGUID="736a951c-d9c8-457f-96a9-cd0ef16011a5" Identifier="1b4c94c9-35eb-4812-a5ec-3b54e0ed3b82">
 			<Description />
 			<Properties />
 			<Errors />
-			<Section Name="Model Parameter Manager" TypeGUID="cc686646-9933-410d-a553-6308e6e06897">
+			<Section Name="Model Parameter Manager" TypeGUID="cc686646-9933-410d-a553-6308e6e06897" Identifier="308d93ed-8e5f-4225-8fad-79f5f1776815">
 				<Description />
 				<Properties>
 					<Property Name="Function">
@@ -119,16 +119,16 @@
 				<Errors />
 			</Section>
 		</Section>
-		<Section Name="Profiles" TypeGUID="c3bd79ec-3336-4b06-868e-3217c640edd5">
+		<Section Name="Profiles" TypeGUID="c3bd79ec-3336-4b06-868e-3217c640edd5" Identifier="a1359cc8-b0f3-4eb0-b3c1-82dc0393f8a4">
 			<Description />
 			<Properties />
 			<Errors />
 		</Section>
-		<Section Name="Calibration" TypeGUID="38433223-24A0-4b32-9339-370EC5AA31B4">
+		<Section Name="Calibration" TypeGUID="38433223-24A0-4b32-9339-370EC5AA31B4" Identifier="5c5b0789-ab9b-4cc5-9e46-6df5f38a6759">
 			<Description />
 			<Properties />
 			<Errors />
-			<Section Name="VS FPGA Addon Interleaved Example.nivscf" TypeGUID="1E715E4F-5EB7-4d75-99E5-F7A3D858E07E">
+			<Section Name="VS FPGA Addon Interleaved Example.nivscf" TypeGUID="1E715E4F-5EB7-4d75-99E5-F7A3D858E07E" Identifier="4d06f465-dc54-4a03-a2da-53c355528cfe">
 				<Description />
 				<Properties>
 					<Property Name="Path">
@@ -143,11 +143,11 @@
 				<Errors />
 			</Section>
 		</Section>
-		<Section Name="Alarm Responses" TypeGUID="3b1ab560-d77a-41f2-adb4-0c0250b010b3">
+		<Section Name="Alarm Responses" TypeGUID="3b1ab560-d77a-41f2-adb4-0c0250b010b3" Identifier="17a3624a-1ecc-4237-bc68-0f63cb995d94">
 			<Description />
 			<Properties />
 			<Errors />
-			<Section Name="Alarm Response" TypeGUID="99267DF5-8C59-4AAC-B020-7591F4886206">
+			<Section Name="Alarm Response" TypeGUID="99267DF5-8C59-4AAC-B020-7591F4886206" Identifier="cbd53fce-108c-4d66-b7d2-53ce16c8ca0b">
 				<Description />
 				<Properties>
 					<Property Name="Show Dialog">
@@ -183,56 +183,56 @@
 				<Errors />
 			</Section>
 		</Section>
-		<Section Name="Custom Files" TypeGUID="9e2cb626-3583-4345-aeb6-b9fead6ec565">
+		<Section Name="Custom Files" TypeGUID="9e2cb626-3583-4345-aeb6-b9fead6ec565" Identifier="f99a0a42-793b-4eed-b3b9-2e6be260f0b4">
 			<Description />
 			<Properties />
 			<Errors />
 		</Section>
-		<Section Name="Dependencies" TypeGUID="e5b093fa-a709-4df2-807e-a403422ba675">
+		<Section Name="Dependencies" TypeGUID="e5b093fa-a709-4df2-807e-a403422ba675" Identifier="89b0a92e-94d7-4fc4-a1d2-d05ca4a18f51">
 			<Description />
 			<Properties />
 			<Errors />
-			<Section Name="FPGA Addon Engine Linux64.llb" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+			<Section Name="VS FPGA Addon Interleaved Example.nivssdf (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666" Identifier="fb50efd1-35e1-43f0-a1e5-656e9aa693ac">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2018\Custom Devices\FPGA Addon\Linux_x64\FPGA Addon Engine Linux64.llb</String>
+						<String>C:\Users\Administrator\Desktop\GIT\fmussi-niveristand-fpga-addon-custom-device\Source\Examples\DMA Channels Interleaved Example\VeriStand Project\VS FPGA Addon Interleaved Example.nivssdf</String>
 					</Property>
 				</Properties>
 				<Errors />
 			</Section>
-			<Section Name="VS FPGA Addon Interleaved Example.nivssdf" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+			<Section Name="VS FPGA Addon Interleaved Example.nivsscreen (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666" Identifier="46dc537e-3745-4f94-93e7-8f9c43400327">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\Dev\niveristand-fpga-addon-custom-device\Source\Examples\DMA Channels Interleaved Example\Assets\Veristand FPGA Addon Interleaved Example\VS FPGA Addon Interleaved Example.nivssdf</String>
+						<String>C:\Users\Administrator\Desktop\GIT\fmussi-niveristand-fpga-addon-custom-device\Source\Examples\DMA Channels Interleaved Example\VeriStand Project\VS FPGA Addon Interleaved Example.nivsscreen</String>
 					</Property>
 				</Properties>
 				<Errors />
 			</Section>
-			<Section Name="VS FPGA Addon Interleaved Example.nivsscreen" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+			<Section Name="VS FPGA Addon Interleaved Example.nivsprj (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666" Identifier="0f95da61-af7d-40c3-8d1f-f655fdebae8d">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\Dev\niveristand-fpga-addon-custom-device\Source\Examples\DMA Channels Interleaved Example\Assets\Veristand FPGA Addon Interleaved Example\VS FPGA Addon Interleaved Example.nivsscreen</String>
+						<String>C:\Users\Administrator\Desktop\GIT\fmussi-niveristand-fpga-addon-custom-device\Source\Examples\DMA Channels Interleaved Example\VeriStand Project\VS FPGA Addon Interleaved Example.nivsprj</String>
 					</Property>
 				</Properties>
 				<Errors />
 			</Section>
-			<Section Name="VS FPGA Addon Interleaved Example.nivsprj" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+			<Section Name="VS FPGA Addon Interleaved Example.nivscf (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666" Identifier="3f19f214-725c-488a-ad23-02a0e882dd58">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\Dev\niveristand-fpga-addon-custom-device\Source\Examples\DMA Channels Interleaved Example\Assets\Veristand FPGA Addon Interleaved Example\VS FPGA Addon Interleaved Example.nivsprj</String>
+						<String>C:\Users\Administrator\Desktop\GIT\fmussi-niveristand-fpga-addon-custom-device\Source\Examples\DMA Channels Interleaved Example\VeriStand Project\VS FPGA Addon Interleaved Example.nivscf</String>
 					</Property>
 				</Properties>
 				<Errors />
 			</Section>
-			<Section Name="VS FPGA Addon Interleaved Example.nivscf" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+			<Section Name="FPGA Addon Engine Linux64.llb (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666" Identifier="ed31b4de-e739-4346-8ebb-48cc250f22c6">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\Dev\niveristand-fpga-addon-custom-device\Source\Examples\DMA Channels Interleaved Example\Assets\Veristand FPGA Addon Interleaved Example\VS FPGA Addon Interleaved Example.nivscf</String>
+						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2020\Custom Devices\FPGA Addon\Linux_x64\FPGA Addon Engine Linux64.llb</String>
 					</Property>
 				</Properties>
 				<Errors />
