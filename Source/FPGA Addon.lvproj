@@ -1534,7 +1534,7 @@
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Source[0].Container.applyProperties" Type="Bool">true</Property>
 				<Property Name="Source[0].Container.applySaveSettings" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{5563ED0C-033E-4042-93A7-E159B0021B8C}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{BA31F668-2A9C-4D6F-97A8-4AF6A63804BD}</Property>
 				<Property Name="Source[0].properties[0].type" Type="Str">Auto error handling</Property>
 				<Property Name="Source[0].properties[0].value" Type="Bool">false</Property>
 				<Property Name="Source[0].properties[1].type" Type="Str">Allow debugging</Property>
@@ -1606,13 +1606,10 @@
 				<Property Name="Source[4].properties[4].value" Type="Bool">false</Property>
 				<Property Name="Source[4].propertiesCount" Type="Int">5</Property>
 				<Property Name="Source[4].type" Type="Str">Container</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/RT CompactRIO Target - Linux x64/deps/NI_Data Type.lvlib/Private/GetRefnumInfoInternal.vi</Property>
-				<Property Name="Source[5].newName" Type="Str">NDT_GetRefnumInfoInternal.vi</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/RT CompactRIO Target - Linux x64/deps/NI_Data Type.lvlib/Private/MDTFlavorToTypeEnum.vi</Property>
+				<Property Name="Source[5].newName" Type="Str">NDT_MDTFlavorToTypeEnum.vi</Property>
 				<Property Name="Source[5].type" Type="Str">VI</Property>
-				<Property Name="Source[6].itemID" Type="Ref">/RT CompactRIO Target - Linux x64/deps/NI_Data Type.lvlib/Private/MDTFlavorToTypeEnum.vi</Property>
-				<Property Name="Source[6].newName" Type="Str">NDT_MDTFlavorToTypeEnum.vi</Property>
-				<Property Name="Source[6].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">7</Property>
+				<Property Name="SourceCount" Type="Int">6</Property>
 			</Item>
 		</Item>
 	</Item>
